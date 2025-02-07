@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a freshman at Bilkent Univeristy as a Computer Science student
+I'm a freshman Computer Science student at Bilkent Univeristy
 <!--
 **CerenSeydanoglu/CerenSeydanoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
